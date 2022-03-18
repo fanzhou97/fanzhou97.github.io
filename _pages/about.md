@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Welcome to my website!
 
-I'm currently a Ph.D. student majoring in Mechanical Engineering at Rutgers University under the supervison of Prof. Jingang Yi. I am a detail oriented PhD student interested in human robot interaction, ​legged robots, machine learning and control. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​Please find my CV here if you are interested. 
+I'm currently a Ph.D. student majoring in Mechanical Engineering at Rutgers University under the supervison of Prof. Jingang Yi<a href=' http://coewww.rutgers.edu/~jgyi/'>g. I am a detail oriented PhD student interested in human robot interaction, ​legged robots, machine learning and control. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​Please find my CV here if you are interested. 
 
 Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod robot project in the CRAB lab supervised by Prof. Kathryn Daltorio, and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. Guillaume Sartoretti. 
 
