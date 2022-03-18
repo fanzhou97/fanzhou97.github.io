@@ -20,7 +20,7 @@ Welcome to my website!
 
 I'm currently a Ph.D. student majoring in Mechanical Engineering at Rutgers University under the supervison of [Prof. Jingang Yi](http://coewww.rutgers.edu/~jgyi/). I am a detail oriented PhD student interested in human robot interaction, ​legged robots, machine learning and control. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​Please find my CV here if you are interested. 
 
-Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod robot project in the CRAB lab supervised by Prof. Kathryn Daltorio, and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. Guillaume Sartoretti. 
+Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod design and control project in the CRAB lab supervised by [Prof. Kathryn Daltorio](https://engineering.case.edu/research/labs/Daltorio/), and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. [Guillaume Sartoretti](https://www.marmotlab.org). 
 
 I received my Bachelor’s degree from Southern University of Science and Technology (SUSTech), China in 2019 with my major in Mechanical Engineering. During the period, I worked on quadruped robot design and control with Prof. Wei Zhang.
 
@@ -63,4 +63,5 @@ Please feel free to contact me for any questions or opportunities.
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&cl=ffffff&w=a"></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&cl=ffffff&w=a" width="300px"></script>
