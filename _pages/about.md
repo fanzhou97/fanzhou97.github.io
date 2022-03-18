@@ -53,6 +53,9 @@ Please feel free to contact me for any questions or opportunities.
 - *2020.01 - 2022.12*, MSc in Mechanical Engineering, Case Western Reserve University(Cleveland, OH).
 - *2015.09 - 2019.06*, B.E. in Mechanical Engineering, Southern University of Science and Technology(China). 
 
+# 👨‍🏫 Teachings
+- *2022.06 - 2022.08*, Instrcutor, "Introduction to Mechatronics".
+- *2022.01 - 2022.05*, Teaching Assistant, "MAE Senior Lab II".
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
