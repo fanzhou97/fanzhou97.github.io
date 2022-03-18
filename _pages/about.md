@@ -31,8 +31,8 @@ Please feel free to contact me for any questions or opportunities.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.01*: &nbsp;🎉🎉 Chunchu Zhu started his Ph.D study at RAM lab, Rutgers University. 
+- *2021.12*: &nbsp;🎉🎉 Chunchu Zhu Graduated with his Master of Science degree in Mechanical Engineering from Case Western Reserve University. 
 
 # 📝 Publications 
 
@@ -64,4 +64,4 @@ Please feel free to contact me for any questions or opportunities.
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=n&d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
