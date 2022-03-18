@@ -63,4 +63,4 @@ Please feel free to contact me for any questions or opportunities.
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-<a href="https://clustrmaps.com/site/1bne8"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&cl=ffffff&w=a"></script>
