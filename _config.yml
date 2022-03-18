@@ -22,6 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chunchu Zhu
+                      <br>
                       朱春初"
   avatar           : "images/profile.png"
   bio              : "Rutgers University"
