@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Welcome to my website!
 
-I'm currently a Ph.D. student majoring in Mechanical Engineering at Rutgers University under the supervison of [Prof. Jingang Yi](http://coewww.rutgers.edu/~jgyi/). I am a detail oriented PhD student interested in human robot interaction, ​legged robots, machine learning and control. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​Please find my CV here if you are interested. 
+I'm currently a Ph.D. student majoring in Mechanical Engineering at Rutgers University under the supervison of [Prof. Jingang Yi](http://coewww.rutgers.edu/~jgyi/). I am a detail oriented PhD student interested in human robot interaction, ​legged robots, machine learning and control. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​Please find my [CV](./docs/CV.pdf) here if you are interested. 
 
 Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod design and control project in the CRAB lab supervised by [Prof. Kathryn Daltorio](https://engineering.case.edu/research/labs/Daltorio/), and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. [Guillaume Sartoretti](https://www.marmotlab.org). 
 
@@ -53,8 +53,9 @@ Please feel free to contact me for any questions or opportunities.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.01 - 2025.12 (Expected)*, Ph.D. in Mechanical Engineering, Rutgers, The State University of New Jersey(New Brunswick, NJ).
+- *2020.01 - 2022.12*, MSc in Mechanical Engineering, Case Western Reserve University(Cleveland, OH).
+- *2015.09 - 2019.06*, B.E. in Mechanical Engineering, Southern University of Science and Technology(China). 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
