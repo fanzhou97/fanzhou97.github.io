@@ -22,7 +22,7 @@ I'm currently a Ph.D. student majoring in Mechanical Engineering at Rutgers Univ
 
 Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod design and control project in the CRAB lab supervised by [Prof. Kathryn Daltorio](https://engineering.case.edu/research/labs/Daltorio/), and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. [Guillaume Sartoretti](https://www.marmotlab.org). 
 
-I received my Bachelor’s degree from Southern University of Science and Technology (SUSTech), China in 2019 with my major in Mechanical Engineering. During the period, I worked on quadruped robot design and control in CLEAR Lab with [Prof. Wei Zhang](https://www.wzhanglab.site).
+I received my Bachelor’s degree from Southern University of Science and Technology (SUSTech), China in 2019 with my major in Mechanical Engineering. During this period, I worked on quadruped robot design and control in CLEAR Lab with [Prof. Wei Zhang](https://www.wzhanglab.site).
 
 Please feel free to contact me for any questions or opportunities.
 
