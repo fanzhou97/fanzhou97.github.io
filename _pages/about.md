@@ -16,15 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Welcome to my website!
+# 🎊 Welcome to my website!
 
-I'm currently a Ph.D. student majoring in Mechanical Engineering at Rutgers University under the supervison of [Prof. Jingang Yi](http://coewww.rutgers.edu/~jgyi/). I am a detail oriented PhD student interested in human robot interaction, ​legged robots, machine learning and control. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​Please find my [CV](./docs/CV.pdf) here if you are interested. 
+I am currently a Ph.D. student majoring in Mechanical Engineering at Rutgers University under the supervison of [Prof. Jingang Yi](http://coewww.rutgers.edu/~jgyi/). I am a detail oriented PhD student interested in human robot interaction, ​legged robots, machine learning and control. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​
 
 Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod design and control project in the CRAB lab supervised by [Prof. Kathryn Daltorio](https://engineering.case.edu/research/labs/Daltorio/), and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. [Guillaume Sartoretti](https://www.marmotlab.org). 
 
 I received my Bachelor’s degree from Southern University of Science and Technology (SUSTech), China in 2019 with my major in Mechanical Engineering. During this period, I worked on quadruped robot design and control in CLEAR Lab with [Prof. Wei Zhang](https://www.wzhanglab.site).
 
-Please feel free to contact me for any questions or opportunities.
+Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities. 
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
