@@ -31,8 +31,9 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
+- *2022.03*: &nbsp;🎉🎉 Co-authored paper got accepted by Frontiers in Robotics and AI.
 - *2022.01*: &nbsp;🎉🎉 Chunchu Zhu started his Ph.D study at RAM lab, Rutgers University. 
-- *2021.12*: &nbsp;🎉🎉 Chunchu Zhu Graduated with his Master of Science degree in Mechanical Engineering from Case Western Reserve University. 
+- *2021.12*: &nbsp;🎉🎉 Chunchu Zhu graduated with his Master of Science degree in Mechanical Engineering from Case Western Reserve University. 
 
 # 📝 Publications 
 
@@ -49,7 +50,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 - A Dactyl-Integrated Sensor Design for Measuring Lake Waves, **Chunchu Zhu**, John Grezmak, Bryan Schmidt, Kathryn Daltorio, **Soft Robotics, Brief Communication(Submitted)**
 
-- Hands to Hexapods, Wearable User Interface Design for Specifying Leg Placement for Legged Robots, J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. Fu, K. Daltorio, **Frontiers in Robotics and AI(Submitted)**
+- Hands to Hexapods, Wearable User Interface Design for Specifying Leg Placement for Legged Robots, J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. Fu, K. Daltorio, **Frontiers in Robotics and AI(Accepted)**
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
