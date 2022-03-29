@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Chunchu Zhu"
 description              : "PhD Student in Mechanical Engineering @ Rutgers"
+url                      : https://chunchuzhu.github.io
 repository               : "ChunchuZhu/chunchuzhu.github.io"
 google_scholar_stats_use_cdn : true
 
