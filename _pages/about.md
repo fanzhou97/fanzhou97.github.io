@@ -60,7 +60,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - *2015.09 - 2019.06*, B.E. in Mechanical Engineering, Southern University of Science and Technology(China). 
 
 # 👨‍🏫 Teachings
-- *2022.06 - 2022.08*, Instrcutor, "Introduction to Mechatronics".
+- *2022.06 - 2022.08*, Instrcutor, "Dynamic System and Control".
 - *2022.01 - 2022.05*, Teaching Assistant, "MAE Senior Lab II".
 
 <!-- # 🎖 Honors and Awards
