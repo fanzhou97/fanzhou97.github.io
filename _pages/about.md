@@ -50,7 +50,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 - A Dactyl-Integrated Sensor Design for Measuring Lake Waves, **Chunchu Zhu**, John Grezmak, Bryan Schmidt, Kathryn Daltorio, **Soft Robotics, Brief Communication(Submitted)**
 
-- Hands to Hexapods, Wearable User Interface Design for Specifying Leg Placement for Legged Robots, J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. Fu, K. Daltorio, **Frontiers in Robotics and AI(Accepted)**
+- J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, C.Zhu, M. J. Fu, and K. A. Daltorio, “Hands to hexapods, wearable user interface design for specifying leg placement for Legged Robots,” Frontiers in Robotics and AI, vol. 9, 2022.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
