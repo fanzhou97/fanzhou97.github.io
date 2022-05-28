@@ -31,7 +31,9 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
-- *2022.03*: &nbsp;🎉🎉 Co-authored paper got accepted by Frontiers in Robotics and AI.
+- *2022.05*: &nbsp;🎉🎉 Chunchu attend ICRA 2022, and gave a talk and poster at the Learning Based Exoskeleton Control workshop.
+- *2022.05*: &nbsp;🎉🎉 First author paper was accepted by IEEE International Conference on Automation Science and Engineering (CASE), 2022.
+- *2022.03*: &nbsp;🎉🎉 Co-authored paper was accepted by Frontiers in Robotics and AI.
 - *2022.01*: &nbsp;🎉🎉 Chunchu Zhu started his Ph.D study at RAM lab, Rutgers University. 
 - *2021.12*: &nbsp;🎉🎉 Chunchu Zhu graduated with his Master of Science degree in Mechanical Engineering from Case Western Reserve University. 
 
@@ -46,11 +48,11 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance, **Chunchu Zhu**, Feng Han, Jingang Yi, **2022 IEEE 18th International Conference on Automation Science and Engineering(Submitted)**
+- Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance, **Chunchu Zhu**, Feng Han, Jingang Yi, **2022 IEEE 18th International Conference on Automation Science and Engineering(Accepted)**
 
 - A Dactyl-Integrated Sensor Design for Measuring Lake Waves, **Chunchu Zhu**, John Grezmak, Bryan Schmidt, Kathryn Daltorio, **Soft Robotics, Brief Communication(Submitted)**
 
-- J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, C.Zhu, M. J. Fu, and K. A. Daltorio, “Hands to hexapods, wearable user interface design for specifying leg placement for Legged Robots,” Frontiers in Robotics and AI, vol. 9, 2022.
+- J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. J. Fu, and K. A. Daltorio, “Hands to hexapods, wearable user interface design for specifying leg placement for Legged Robots,” Frontiers in Robotics and AI, vol. 9, 2022.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
