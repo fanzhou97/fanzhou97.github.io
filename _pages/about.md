@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a M.Eng. student majoring in Material Engineering at Southern University of Science and Technology (SUSTech, China) under the supervison of [Prof. Qiang Zhu](https://faculty.sustech.edu.cn/zhuq/en/) and [Prof. Xiaogang Hu](https://faculty.sustech.edu.cn/huxg/en/). I am a detail oriented M.Eng. student interested in **Additive Manufacturing**, **Microstructure Characterization**, and **Mechanical Properties**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in metal additive manufacturing.
 
-My master thesis invovles the effects of post heat treatments on anisotropic mechanical properties of Inconel 718 superalloy manufactured by laser powder bed fusion and laser directed energy deposition. I just passed my thesis defense, and I am preparing to get this work published now.
+My master thesis invovles the effects of post heat treatment on anisotropic mechanical properties of Inconel 718 superalloy manufactured by laser powder bed fusion and laser directed energy deposition. I just passed my thesis defense, and I am preparing to get this work published now.
 
 I received my Bachelor’s degree from SUSTech, in 2019 with my major in Mechanical Engineering. During this period, I worked on the design of fuel cell system for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
@@ -44,21 +44,17 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 **CVPR, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div> -->
-- Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance, **Chunchu Zhu**, Feng Han, Jingang Yi, **2022 IEEE 18th International Conference on Automation Science and Engineering(Accepted)**
+- Zhou, F. Hu, X., ...& Zhu, Q. Effects of post heat treatment on anisotrpic mechanical properties of laser additively manufactured Inconel 718. (To be submitted)
+- Guo, C., Yu, Z., Hu, X., Li, G., **Zhou, F.**, Xu, Z., ... & Zhu, Q. (2022). Y<sub>2</sub>O<sub>3</sub> nanoparticles decorated IN738LC superalloy manufactured by laser powder bed fusion: Cracking inhibition, microstructures and mechanical properties. *Composites Part B: Engineering, 230,* 109555.
 
-- A Dactyl-Integrated Sensor Design for Measuring Lake Waves, **Chunchu Zhu**, John Grezmak, Bryan Schmidt, Kathryn Daltorio, **Soft Robotics, Brief Communication(Submitted)**
-
-- J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. J. Fu, and K. A. Daltorio, “Hands to hexapods, wearable user interface design for specifying leg placement for Legged Robots,” Frontiers in Robotics and AI, vol. 9, 2022.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2022.01 - 2025.12 (Expected)*, Ph.D. in Mechanical Engineering, Rutgers, The State University of New Jersey(New Brunswick, NJ).
-- *2020.01 - 2022.12*, MSc in Mechanical Engineering, Case Western Reserve University(Cleveland, OH).
-- *2015.09 - 2019.06*, B.E. in Mechanical Engineering, Southern University of Science and Technology(China). 
+- *2020.09 - 2022.06*, M.Eng in Material Engineering, Southern University of Science and Technology(China).
+- *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(China). 
 
-# 👨‍🏫 Teachings
+<!-- # 👨‍🏫 Teachings
 - *2022.06 - 2022.08*, Instrcutor, "Dynamic System and Control".
 - *2022.01 - 2022.05*, Teaching Assistant, "MAE Senior Lab II".
 
@@ -75,4 +71,4 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=n&d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=n&d=Ak5DuLvzIX678_sVyqunXdstRBZxnpMq3yWJEkgYk4w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
