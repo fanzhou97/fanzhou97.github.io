@@ -43,8 +43,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2020.09 - 2022.06*, M.Eng in Material Engineering, Southern University of Science and Technology(China).
-- *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(China). 
+- *2020.09 - 2022.06*, M.Eng in Material Engineering, Southern University of Science and Technology (China).
+- *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology (China). 
 
 <!-- # 👨‍🏫 Teachings
 - *2022.06 - 2022.08*, Instrcutor, "Dynamic System and Control".
