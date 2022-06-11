@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chunchu Zhu"
+title                    : "Fan Zhou"
 description              : "M.Eng. Student in Material Engineering @ SUSTech"
 url                      : https://fanzhou97.github.io
 repository               : "fanzhou97/fanzhou97.github.io"
@@ -164,5 +164,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-tactile
