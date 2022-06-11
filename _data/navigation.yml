@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Teachings"
-    url: "/#-teachings"
+  #- title: "Teachings"
+  #  url: "/#-teachings"
     
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
