@@ -36,16 +36,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - *2021.12*: &nbsp;🎉🎉 Co-authored paper was accepted by *Composites Part B: Engineering*.
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Chunchu Zhu**, Feng Han, Jingang Yi
-
-**CVPR, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-- Zhou, F. Hu, X., ...& Zhu, Q. Effects of post heat treatment on anisotrpic mechanical properties of laser additively manufactured Inconel 718. (To be submitted)
-- Guo, C., Yu, Z., Hu, X., Li, G., **Zhou, F.**, Xu, Z., ... & Zhu, Q. (2022). Y<sub>2</sub>O<sub>3</sub> nanoparticles decorated IN738LC superalloy manufactured by laser powder bed fusion: Cracking inhibition, microstructures and mechanical properties. *Composites Part B: Engineering, 230,* 109555.
+- **Zhou, F.** Hu, X., ...& Zhu, Q. Effects of post heat treatment on anisotrpic mechanical properties of laser additively manufactured Inconel 718. (To be submitted)
+- Guo, C., Yu, Z., Hu, X., Li, G., **Zhou, F.**, Xu, Z., ... & Zhu, Q. (2022). [Y<sub>2</sub>O<sub>3</sub> nanoparticles decorated IN738LC superalloy manufactured by laser powder bed fusion: Cracking inhibition, microstructures and mechanical properties](https://doi.org/10.1016/j.compositesb.2021.109555). *Composites Part B: Engineering, 230,* 109555.
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
