@@ -25,7 +25,7 @@ author:
   name             : "Fan Zhou
                       <br>
                       周帆"
-  avatar           : "images/profile.png"
+ #avatar           : "images/profile.png"
   # bio              : "Southern University of Science and Technology"
   location         : "Shenzhen, China"
   employer         :
@@ -46,9 +46,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
- # linkedin         : /chunchu-zhu-254797141/
+ #linkedin         : /chunchu-zhu-254797141/
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
- #orcid            :"https://orcid.org/0000-0002-5356-5895"
+  orcid            :"https://orcid.org/0000-0002-5356-5895"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
