@@ -31,12 +31,9 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
-- *2022.05*: &nbsp;🎉🎉 Chunchu attend ICRA 2022, and gave a talk and poster at the Learning Based Exoskeleton Control workshop.
-- *2022.05*: &nbsp;🎉🎉 First author paper was accepted by IEEE International Conference on Automation Science and Engineering (CASE), 2022.
-- *2022.03*: &nbsp;🎉🎉 Co-authored paper was accepted by Frontiers in Robotics and AI.
-- *2022.01*: &nbsp;🎉🎉 Chunchu Zhu started his Ph.D study at RAM lab, Rutgers University. 
-- *2021.12*: &nbsp;🎉🎉 Chunchu Zhu graduated with his Master of Science degree in Mechanical Engineering from Case Western Reserve University. 
-
+- *2022.05*: &nbsp;🎉🎉 Fan Zhou defended his thesis successfully. 
+- *2022.04*: &nbsp;🎉🎉 Fan Zhou finished the final version of his thesis. 
+- *2021.12*: &nbsp;🎉🎉 Co-authored paper was accepted by *Composites Part B: Engineering*.
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
