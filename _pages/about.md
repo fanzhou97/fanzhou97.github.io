@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently a M.Eng. student majoring in Material Engineering at Southern University of Science and Technology (SUSTech, China) under the supervison of [Prof. Qiang Zhu](https://faculty.sustech.edu.cn/zhuq/en/) and [Prof. Xiaogang Hu](https://faculty.sustech.edu.cn/huxg/en/). I am a detail oriented M.Eng. student interested in **Additive Manufacturing**, **Microstructure Characterization**, and **Mechanical Properties**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in metal additive manufacturing.
+I am currently a Research Assistant(RA) at Southern University of Science and Technology (SUSTech, China) under the supervison of [Prof. Qiang Zhu](https://faculty.sustech.edu.cn/zhuq/en/) and [Prof. Xiaogang Hu](https://faculty.sustech.edu.cn/huxg/en/). I am interested in **Additive Manufacturing**, **Microstructure Characterization**, and **Mechanical Properties**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in metal additive manufacturing.
 
-My master thesis invovles the effects of post heat treatment on anisotropic mechanical properties of Inconel 718 superalloy manufactured by laser powder bed fusion and laser directed energy deposition. I just passed my thesis defense, and I am preparing to get this work published now.
+My master thesis invovles the effects of post heat treatments on anisotropic mechanical properties of Inconel 718 superalloy manufactured by laser powder bed fusion and laser directed energy deposition. I just passed my thesis defense, and I am preparing to get this work published now.
 
 I received my Bachelor’s degree from SUSTech, in 2019 with my major in Mechanical Engineering. During this period, I worked on the design of fuel cell system for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
@@ -31,6 +31,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
+- *2022.07*: &nbsp;🎉🎉 Fan Zhou started his role as RA at SUSTech. A new beginning! 
+- *2022.06*: &nbsp;🎓🎓 Fan Zhou received his Master's Degree finally. 
 - *2022.05*: &nbsp;🎉🎉 Fan Zhou defended his thesis successfully. 
 - *2022.04*: &nbsp;🎉🎉 Fan Zhou finished the final version of his thesis. 
 - *2021.12*: &nbsp;🎉🎉 Co-authored paper was accepted by *Composites Part B: Engineering*.
