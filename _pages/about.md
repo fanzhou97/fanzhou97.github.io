@@ -45,7 +45,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Experiences
-- *2022.07 - Present*, RA @ Advanced Forming Lab, Southern University of Science and Technology (China).
+- *2022.07 - Present*, RA at Shenzhen Key Laboratory for Additive Manufacturing of High-Performance Materials, Southern University of Science and Technology (China).
 - *2020.09 - 2022.06*, M.Eng in Material Engineering, Southern University of Science and Technology (China).
 - *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology (China). 
 
