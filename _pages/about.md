@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently a Research Assistant (RA) at Southern University of Science and Technology (SUSTech, China) under the supervison of [Prof. Qiang Zhu](https://faculty.sustech.edu.cn/zhuq/en/) and [Prof. Xiaogang Hu](https://faculty.sustech.edu.cn/huxg/en/). I am interested in **Additive Manufacturing**, **Microstructure Characterization**, and **Mechanical Properties**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in metal additive manufacturing.
+I am currently a Research Assistant (RA) at Southern University of Science and Technology (SUSTech, China) under the supervison of [Prof. Qiang Zhu](https://faculty.sustech.edu.cn/zhuq/en/) and [Prof. Xiaogang Hu](https://faculty.sustech.edu.cn/huxg/en/). I am interested in **Additive Manufacturing**, **Microstructure Characterization**, and **Mechanical Testing**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in metal additive manufacturing.
 
 My master thesis invovles the effects of post heat treatments on anisotropic mechanical properties of Inconel 718 superalloy manufactured by laser powder bed fusion and laser directed energy deposition. I just passed my thesis defense, and I am preparing to get this work published now.
 
