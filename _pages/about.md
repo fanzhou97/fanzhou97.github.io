@@ -38,7 +38,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - *2021.12*: &nbsp;🎉🎉 Co-authored paper was accepted by *Composites Part B: Engineering*.
 
 # 📝 Publications 
-- **Zhou F.**, Hu X., ... Zhu Q. Effects of post heat treatment on anisotrpic mechanical properties of laser additively manufactured Inconel 718. (To be submitted)
+- **Zhou F.**, Hu X., ... Zhu Q. Effects of post heat treatment on anisotropic mechanical properties of laser additively manufactured Inconel 718. (To be submitted)
 - Guo C., Yu Z., Hu X., Li G., **Zhou F.**, Xu Z., ... Zhu Q. (2022). [Y<sub>2</sub>O<sub>3</sub> nanoparticles decorated IN738LC superalloy manufactured by laser powder bed fusion: Cracking inhibition, microstructures and mechanical properties](https://doi.org/10.1016/j.compositesb.2021.109555). *Composites Part B: Engineering, 230,* 109555.
 
 
