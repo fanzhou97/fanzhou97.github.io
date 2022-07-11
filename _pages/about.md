@@ -22,7 +22,7 @@ I am currently a Research Assistant (RA) at Southern University of Science and T
 
 My master thesis invovles the effects of post heat treatments on anisotropic mechanical properties of Inconel 718 superalloy manufactured by laser powder bed fusion and laser directed energy deposition. I just passed my thesis defense, and I am preparing to get this work published now.
 
-I received my Bachelor’s degree from SUSTech, in 2019 with my major in Mechanical Engineering. During this period, I worked on the design of fuel cell system for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
+I received my Bachelor’s degree from SUSTech in 2019, majoring in Mechanical Engineering. During this period, I worked on the design of fuel cell system for drones in Shenzhen Key Laboratory of Hydrogen Energy supervised by [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
 Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities. 
 
